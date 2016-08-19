@@ -31,6 +31,9 @@ navigation:
   - name: Pack 216 Calendar for 2016-2017
     id: 9a91cce6-406d-43b4-acc3-995bafa6fc76
     type: content
+  - name: Intro to Scouting
+    id: e8adcf74-18f6-47f8-b1f2-502bdcf30614
+    type: content
 favicon: null
 title: Cub Pack 216
 description: Serving Lionville and Pickering Valley Elementary (and surrounding areas)
