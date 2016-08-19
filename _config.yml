@@ -28,6 +28,9 @@ navigation:
   - name: Pack 216 FAQ
     id: 16fe4f0e-076c-4d69-9bbc-6be8559f11d5
     type: content
+  - name: Pack 216 Calendar for 2016-2017
+    id: 9a91cce6-406d-43b4-acc3-995bafa6fc76
+    type: content
 favicon: null
 title: Cub Pack 216
 description: Serving Lionville and Pickering Valley Elementary (and surrounding areas)
