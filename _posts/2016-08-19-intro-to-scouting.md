@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-19T14:12:42.680Z'
+datePublished: '2016-08-19T14:25:44.572Z'
 sourcePath: _posts/2016-08-19-intro-to-scouting.md
 author: []
 via: {}
-dateModified: '2016-08-19T14:12:41.754Z'
+dateModified: '2016-08-19T14:25:41.738Z'
 title: Intro to Scouting
 publisher: {}
 description: >-
   Scouting aims to support young people in their physical, mental and spiritual
   development, that they may play constructive roles in society, with a strong
   focus on the outdoors and survival skills.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: intro-to-scouting/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/806cd734-1045-41c7-a329-dff8413b19bf.jpg)
