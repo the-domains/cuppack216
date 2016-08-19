@@ -1,0 +1,28 @@
+typography_spectrum: 0.277786418562755
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5711785173043609
+  lightness: 0.21728612668812275
+  saturation: 0.8085114124696702
+  rhythmicContrast: 0.354395077098161
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3089498814661056
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CuPack216b
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+purpose: []
