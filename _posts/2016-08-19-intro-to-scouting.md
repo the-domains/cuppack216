@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T14:09:09.547Z'
+datePublished: '2016-08-19T14:12:42.680Z'
 sourcePath: _posts/2016-08-19-intro-to-scouting.md
 author: []
 via: {}
-dateModified: '2016-08-19T14:09:09.050Z'
+dateModified: '2016-08-19T14:12:41.754Z'
 title: Intro to Scouting
 publisher: {}
 description: >-
@@ -44,6 +44,7 @@ You might also build a pinewood derby car and race it on the track, build a sail
 ### Cub Scouts Earn Awards
 
 Each time you complete an accomplishment or learn a new skill, you will be rewarded. Sometimes the reward is a loop for your belt, a pin, or a patch. Sometimes it is a smile on your parents' faces to see you grow and learn.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a7ec695-c260-4f01-b12d-52b0299404a5.jpg)
 
 Source: [What Is Cub Scouting][1]
 
@@ -61,34 +62,41 @@ Cub Scouting is an active program. Boys learn by doing, and there's no end to th
 * [Service Projects][6]: Doing service projects together is one way that Cub Scouts keep their promise "to help other people."
 * [Den and Pack Meetings][7]: Den meetings are the stepping-stones by which a boy progresses through the Cub Scout program. At pack meetings, families celebrate their achievements along the way.
 * [Blue and Gold Banquets][8]: In February, when Scouting celebrates its "birthday," packs across the country hold blue and gold banquets. In nearly all packs, the banquet is a very special event.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/427e9899-873a-4c03-9874-e1933e8a14b3.jpg)
 
 ## What Is The Scout Advancement Trail?
 
 On the advancement trail, a Cub Scout progresses from rank to rank, learning new skills as he goes.
 
 ### Bobcat
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/427830aa-44b8-4052-aa17-894debe3a48c.jpg)
 
 No matter what age or grade a boy joins Cub Scouting, he must earn his Bobcat badge before he can advance to the rank of Tiger, Wolf, Bear, or Webelos.
 
 ### Tiger
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bfa4499d1cd8c2de271875f933621416c6efccd.jpg)
 
 The Tiger rank is for boys who are in first grade or are age 7\. To earn the Tiger badge, a boy must complete six required adventures with his den or family and one elective adventure of his den or family's choosing. As the boy completes each adventure, he will receive the adventure loop for that adventure, which he can wear on his belt. When the boy has completed the seven required adventures, he can receive the Tiger badge.
 
 ### Wolf
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed47a8-f4ba-4de9-9c1c-75f69fe13b0c.jpg)
 
 The Wolf rank is for boys who have finished first grade (or who are 8 years old). To earn the Wolf badge, a boy must complete six required adventures and one elective adventure. His parent or guardian and den leader approves each requirement by signing his book, and the boy receives an adventure loop for each adventure.
 
 ### Bear
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d095bdc6-effd-4432-97e1-19d52a6f8468.jpg)
 
 The Bear rank is for boys who have finished second grade (or who are 9 years old). To earn the Bear badge, a boy must complete six required adventures and one elective adventure. His parent or guardian and den leader approves each requirement by signing his book, and the boy receives an adventure loop for each adventure.
 
 ### Webelos
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb66a24-0364-49bd-86c0-3d4a08a9dcb9.png)
 
 Webelos dens are for boys who have completed third grade (or reached age 10). Webelos Scouts get to work on the five required Webelos adventures and choose two of the 18 elective adventures that are shared by the Webelos and Arrow of Light ranks.
 
 When a boy has done the requirements for an adventure, the Webelos den leader, rather than a parent, approves most of the adventures. For each adventure a boy completes, he receives a pin to wear on the Webelos colors or on his hat. After completing seven adventures, including five required adventures and two elective adventures, a Scout can receive the Webelos badge.
 
 ### Arrow of Light
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/435aa7b8-29fe-414a-90f3-30bd4ecd83c7.jpg)
 
 The highest rank in Cub Scouting is the Arrow of Light. Earning this rank prepares a Webelos Scout to become a Boy Scout. Scouts must complete four required adventures and three elective adventures to earn the Arrow of Light rank. For each adventure a boy completes, he receives a pin to wear on the Webelos colors or on his hat.
 
@@ -177,6 +185,7 @@ Character is "values in action."
 The goals of the Cub Scout leader are to seek out and maximize the many opportunities to incorporate character development to help the young Cub Scout understand that character is important to the individual, to his family, community, country, world, and God.
 
 Character development should not be viewed as something done occasionally as part of a separate program, or as part of only one area of life. For in reality, character development is a part of everything a Cub Scout does. Character development lessons can be found in every aspect of the Cub Scouting experience.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fdf0c4a-b700-4818-8b0f-430dcf2fbf29.jpg)
 
 [0]: https://en.wikipedia.org/wiki/Scouting
 [1]: http://www.scouting.org/scoutsource/CubScouts/CubScouts/BeingACubScout/WhatIsCubScouting.aspx
