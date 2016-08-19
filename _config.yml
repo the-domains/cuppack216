@@ -1,43 +1,28 @@
-layout_spectrum: 0.18573108781129122
-typography_spectrum: 0.7821554380934685
-color:
-  brandColors:
-    - '#D6F0FD'
-    - '#234860'
-    - '#5496AB'
-    - '#2A0229'
-    - '#FD6E38'
-  brandStrength: 0.38402665010653436
-  lightness: 0.8944468160625547
-  saturation: 0.8533896754961461
-  rhythmicContrast: 0.6567498301155865
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: CubPack216
+name: CupPack216
+favicon: null
+layout_spectrum: 0.3089498814661056
+typography_spectrum: 0.277786418562755
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Pack 216 FAQ
-    id: 16fe4f0e-076c-4d69-9bbc-6be8559f11d5
-    type: content
-  - name: Pack 216 Calendar for 2016-2017
-    id: 9a91cce6-406d-43b4-acc3-995bafa6fc76
-    type: content
-  - name: Intro to Scouting
-    id: e8adcf74-18f6-47f8-b1f2-502bdcf30614
-    type: content
-  - name: Scouting Builds Positive Character
-    id: 381dacfb-5489-4bb5-8071-29a74c5e9f57
-    type: content
-favicon: null
-title: Cub Pack 216
-description: Serving Lionville and Pickering Valley Elementary (and surrounding areas)
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5711785173043609
+  lightness: 0.21728612668812275
+  saturation: 0.8085114124696702
+  rhythmicContrast: 0.354395077098161
 purpose: []
