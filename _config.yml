@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Pack 216 FAQ
+    id: 16fe4f0e-076c-4d69-9bbc-6be8559f11d5
+    type: content
 favicon: null
 title: Cub Pack 216
 description: Serving Lionville and Pickering Valley Elementary (and surrounding areas)
